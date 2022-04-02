@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.left
+{
+    background-color: white;
+    height: 400px;
+    width: 800px;
+    margin-left: 100px;
+    display: block;
+    border: 4px solid gray;
+    
+}
+.top
+{
+    background-color: red;
+    height: 196px;
+    width: 592px;
+    margin-left: 200px;
+    display: block;
+}
+.bottom
+{
+    background-color: green;
+    height: 196px;
+    width: 592px;
+    margin-left: 200px;
+    display: block;
+}
