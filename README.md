@@ -1,4 +1,5 @@
 # madagaskar-s-flag
 
 
-![Madagascar svg](https://user-images.githubusercontent.com/99181174/161404740-52666e33-5c9a-4f3a-b772-fc7e84d8741f.png)
+
+![img](https://user-images.githubusercontent.com/99181174/161405714-796fe398-74b8-48ae-a9b5-05cc9ba8c42f.png)
